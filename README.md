@@ -6,7 +6,7 @@ O projeto teve o objetivo de realizar um estudo sobre Web Scraping com ETL, web 
 
 
 
-Os processos de extração, transformação e carregamento dos dados para um arquivo csv externo, foram feitas utilizando a linguagem Python e as seguintes bibliotecas:
+Os processos de extração, transformação e carregamento dos dados para um arquivo csv externo, foram feitos utilizando a linguagem Python e as seguintes bibliotecas:
 <li>Urllib</li> Utilizada para abrir as páginas web.
 <li>Pandas</li> Utilizada para manipular os dados.
 <li>bs4</li> Utilizada para analisar diretamente os códigos HTML da página.
